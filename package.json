@@ -1,0 +1,22 @@
+{
+  "name": "parcel_experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kmh357/parcel_experiments.git",
+  "author": "minhoonkim <kmh357@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "clean": "rm -rf ./dist",
+    "build": "parcel build index.html"
+  }
+}
