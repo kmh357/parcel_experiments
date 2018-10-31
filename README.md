@@ -8,5 +8,7 @@ Setting up a professional frontend project with Parcel as a code bundler
 - ES6 with Babel ☑️
 - SCSS -> css ☑️
 - CSS Modeles ☑️
-- Typography.js
-- Build for production
+- Typography.js ☑️
+- Vue ☑️
+- Vue Component ☑️
+- Build for production ☑️
